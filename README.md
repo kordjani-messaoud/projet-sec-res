@@ -18,5 +18,3 @@ https://brezular.com/2017/09/07/enterprise-network-on-gns3-part-1-introduction/
 - Cisco Firewall ASAv version 9.9.1
 - Cisco c7200
 - Linux-microcore version 6.4
-
-https://drive.google.com/drive/folders/1lFAR3iYbyr8sADpg5CPIKJ3Vkk9mr9VI?usp=sharing
